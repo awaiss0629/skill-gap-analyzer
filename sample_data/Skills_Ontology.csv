@@ -1,0 +1,32 @@
+skill_name,category,synonyms
+Python,Programming Language,python3; py
+Java,Programming Language,java8; java se
+C++,Programming Language,cpp
+JavaScript,Programming Language,js; ecmascript
+HTML,Frontend Development,hypertext markup language
+CSS,Frontend Development,cascading style sheets
+React,Frontend Framework,react.js; reactjs
+Django,Backend Framework,django rest; drf
+Spring Boot,Backend Framework,spring-boot
+SQL,Database,postgres; mysql; t-sql
+MySQL,Database,mysql server
+MongoDB,Database,mongodb atlas
+Pandas,Data Science,pd
+NumPy,Data Science,numpy
+Scikit-learn,ML Library,sklearn
+TensorFlow,ML Framework,tf
+NLTK,NLP Library,natural language toolkit
+spaCy,NLP Library,spacy
+Power BI,BI/Visualization,powerbi
+Tableau,BI/Visualization,tableau software
+Data Visualization,Data Science,viz; plotting
+Docker,DevOps,containers
+Kubernetes,DevOps,k8s
+CI/CD,DevOps,continuous integration; continuous delivery
+AWS,Cloud,amazon web services
+GCP,Cloud,google cloud
+ETL,Data Engineering,data pipelines; extract transform load
+Airflow,Data Engineering,apache airflow
+Spark,Data Engineering,apache spark
+Android,Mobile,android sdk; kotlin
+iOS,Mobile,swift; swiftui

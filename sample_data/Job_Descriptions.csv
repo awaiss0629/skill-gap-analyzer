@@ -1,0 +1,13 @@
+job_id,title,description
+1,Data Analyst Intern,"Looking for candidates with experience in Python, Pandas, Excel, SQL, and Data Visualization."
+2,Backend Developer,"Requires knowledge of Java, Spring Boot, REST APIs, MySQL, Git, and cloud deployment."
+3,Machine Learning Engineer,"Needs experience in TensorFlow, Scikit-learn, Python, data preprocessing, model deployment, and cloud tools."
+4,Frontend Developer,"Proficient in HTML, CSS, JavaScript, React, UI frameworks, and responsive design."
+5,DevOps Engineer,"Knowledge of Docker, CI/CD pipelines, AWS, scripting (Python/Bash), and Kubernetes."
+6,Business Intelligence Analyst,"Strong in SQL, ETL, data warehousing, Power BI/Tableau, and Excel."
+7,Android Developer,"Experience with Kotlin, Android SDK, Room, Retrofit, MVVM, and Firebase."
+8,iOS Developer,"Swift/SwiftUI, CoreData, REST APIs, Git, and App Store deployment."
+9,Data Engineer,"ETL pipelines, Python/Scala, SQL, Airflow, Spark, cloud (AWS/GCP)."
+10,NLP Engineer,"Text preprocessing, spaCy/NLTK, transformers, Python, model serving."
+11,Full Stack Developer,"Node.js/Express, React, MongoDB, REST APIs, JWT, Docker."
+12,QA Automation Engineer,"Selenium, Cypress, CI/CD, Git, test frameworks (JUnit/PyTest)."
